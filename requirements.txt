@@ -1,0 +1,4 @@
+ir_datasets
+tqdm
+sentence_transformers
+chromadb
