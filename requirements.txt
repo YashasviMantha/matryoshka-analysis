@@ -2,3 +2,7 @@ ir_datasets
 tqdm
 sentence_transformers
 chromadb
+pandas
+ir-measures
+matplotlib
+kneed
